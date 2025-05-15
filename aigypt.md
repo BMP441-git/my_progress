@@ -23,4 +23,9 @@ Prompt engineering:
 
 
 
+### tanggal : 14.05.25, Cairo, Egypt
+Penutupan batch 0
+
+
+
 
